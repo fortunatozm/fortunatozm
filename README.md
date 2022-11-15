@@ -4,6 +4,7 @@
 - Especialista em Geoprocessamento
 - Mestrando em Geoprocessamento e Análise Ambiental
 
+
 _________________________________________________________________________________________________________________________________________________________
 <div align="center">
   <a href="https://github.com/fortunatozm">
@@ -25,6 +26,7 @@ ________________________________________________________________________________
   <img align="center" alt="Fortunato-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Fortunato-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Fortunato-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
+  <img align="center" alt="Fortunato-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
   <img align="center" alt="Fortunato-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
 </div>
 
