@@ -1,5 +1,5 @@
 ### Oi, sou Fortunato Mpongo 👋
-- Desenvolvedor Full Stack
+- Desenvolvedor Full Stack (React.JS, Node.JS)
 - Engenheiro Agrimensor e Cartografo
 - Especialista em Geoprocessamento
 - Mestrando em Geoprocessamento e Análise Ambiental
